@@ -6,7 +6,7 @@ This project is also not affiliated with Avanza Bank AB in any way. The underlyi
 
 ## Limitations
 
-Several features are not yet available, such as websocket support. Also the datamodel is missing some properties
+Several features are not yet available, such as websocket support. Also the data model is missing some properties in various places
 
 ## Getting a TOTP Secret
 
