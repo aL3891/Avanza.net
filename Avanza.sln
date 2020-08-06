@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30323.103
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avanza.Tests", "Avanza.Tests\Avanza.Tests.csproj", "{BFD59760-BD9A-4C33-B614-72CFCD8FAE45}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Avanza", "Avanza\Avanza.csproj", "{2211EF6B-54D1-408E-AF54-6A3528D10A15}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD59760-BD9A-4C33-B614-72CFCD8FAE45}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD59760-BD9A-4C33-B614-72CFCD8FAE45}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD59760-BD9A-4C33-B614-72CFCD8FAE45}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD59760-BD9A-4C33-B614-72CFCD8FAE45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2211EF6B-54D1-408E-AF54-6A3528D10A15}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2211EF6B-54D1-408E-AF54-6A3528D10A15}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2211EF6B-54D1-408E-AF54-6A3528D10A15}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2211EF6B-54D1-408E-AF54-6A3528D10A15}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A994DEA5-F05F-4A34-B15A-AEF2997A8E29}
+	EndGlobalSection
+EndGlobal
